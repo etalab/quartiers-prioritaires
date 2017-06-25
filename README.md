@@ -17,6 +17,7 @@ Script permettant de produire le fichier des quartiers prioritaires au format JS
 
 * [Node.js](https://nodejs.org) >= 6
 * wget
+* ogr2ogr (GDAL >= 2.0)
 * bash
 
 ### Préparation des données
